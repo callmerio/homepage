@@ -1,4 +1,4 @@
-import { Box, Container, Heading, Button, Image, Link, useColorModeValue, SimpleGrid, LinkBox, ListItem, Icon } from "@chakra-ui/react"
+import { Box, Container, Heading, Button, Image, Link, useColorModeValue, SimpleGrid, LinkBox, Icon } from "@chakra-ui/react"
 import { ChevronRightIcon } from "@chakra-ui/icons"
 import NextLink from "next/link"
 import { BioSection, BioYear } from "../components/bio"

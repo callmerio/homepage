@@ -1,0 +1,32 @@
+{
+  "name": "riozron-homepage",
+  "version": "1.0.0",
+  "description": "Riozron's website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier": "prettier --write .",
+    "lint": "next link"
+  },
+  "keywords": [],
+  "author": "Riozron<riozron@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/react": "^2.6.1",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "framer-motion": "^10.12.12",
+    "next": "^13.4.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.9.0",
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-next": "^13.4.3",
+    "prettier": "^2.8.8"
+  }
+}
